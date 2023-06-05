@@ -1,4 +1,4 @@
-# ONLINESALES.AI-Assessment
+ 
 # ASSIGNMENT FOR Onlinesales.ai 
  - the assignments are given in he format of files checkout the links below->
 
